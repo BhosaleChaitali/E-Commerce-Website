@@ -20,7 +20,7 @@ Basic Requirements:<br/>
 
 Technology Stack : Html, css, Javascript , Mysql, Php, Python , Ajax, Jquery
 
-Steps to Run :- 
-Create a database named 'dee_store'
-import the .sql file in 'database .sql file' folder.
+Steps to Run :- <br/>
+Create a database named 'dee_store'<br/>
+import the .sql file in 'database .sql file' folder.<br/>
 Run the Python backend application (Read the README.txt file inside the 'python' folder)
